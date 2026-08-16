@@ -12,4 +12,7 @@ uv pip install fastapi
 # webserver for fastapi is uvicorn
 uv pip install uvicorn
 
+# Your path to add in PyCharm will simply be:C:\Users\Abhishek\PycharmProjects\fastAPI\.venv\Scripts\python.exe
+uv init
+
 
