@@ -16,5 +16,5 @@ uv pip install uvicorn
 uv init
 
 # run the application
-uvicorn src.fastapi.books:app --reload
+uvicorn src.fastapi.books:app --reload or uvicorn --app-dir .. src.fastapi.books:app --reload
 
